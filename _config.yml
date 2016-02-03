@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://areff2000.github.io
+title: Richard Ferrers @ Resbaz 2016; Plot.ly test
+tagline: Interactive Visualisation 
+description: My awesome new site/#datavis
+paginate: 5
