@@ -11,4 +11,4 @@ My first plot.ly interactive plot..........
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="https://plot.ly/~areff20000/1.embed"></iframe>
 
 2. Hans Rosling Data; D3 example
-<iframe width="900" height="500" frameborder="0" scrolling="no" src="http://areff2000.github.io/d3-bubble-plot/d3-plot/"></iframe>
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="http://areff2000.github.io/d3-bubble-plot/d3-plot/"></iframe>
