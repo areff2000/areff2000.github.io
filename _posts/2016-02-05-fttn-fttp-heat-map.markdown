@@ -5,4 +5,6 @@ layout: post
 ---
 Creating a visualisation of FTTN vs FTTP, using a collection of heat maps.
 
+Content at: <a href="http://areff2000.github.io/d3-bubble-plot/fttn-fttp-heatmap/FTTNFTTPheatmap.html">http://areff2000.github.io/d3-bubble-plot/fttn-fttp-heatmap/FTTNFTTPheatmap.html</a>
+
 <iframe width="700" height="800" frameborder="0" scrolling="no" src="http://areff2000.github.io/d3-bubble-plot/fttn-fttp-heatmap/FTTNFTTPheatmap.html"></iframe>
