@@ -17,7 +17,7 @@ Pulsar data is available from <a href="http://www.atnf.csiro.au/outreach/educati
 * Michael - transforming pulsar coordinates, azimuthal to cartesian
 * Richard - data analyst, datavis advisor, data management
 * AAD - R analysis of pulsar distance, frequency distribution
-* Advisors: CSIRO, AAD
+* Advisors: CSIRO Jess Robertson (focus on simple, doable outcome), AAD
 
 ### Data:
 * RA - east/west coordinates (0 - 24 hrs, roughly equates to longitude)
