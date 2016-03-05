@@ -9,13 +9,13 @@ Pulsar data is available from ATNF at CSIRO.au. Our team at #SciHackMelb has bee
 <img src="https://pbs.twimg.com/media/Cc0Dws-UYAA7Yz4.jpg" width=768 height = 1024>
 
 The Team:
-Tony - webbed
-Gary - python tech, visualising sound of a single pulsar
-Chris - data manager, accessing CSIRO pulsar data and manipulating it to a useful format
-Anderson - SQL
-Richard - data analyst, datavis advisor, data management
-AAD - R analysis of pulsar distance, frequency distribution
-Advisors: CSIRO, AAD
+-Tony - webbed
+-Gary - python tech, visualising sound of a single pulsar
+-Chris - data manager, accessing CSIRO pulsar data and manipulating it to a useful format
+-Anderson - SQL
+-Richard - data analyst, datavis advisor, data management
+-AAD - R analysis of pulsar distance, frequency distribution
+-Advisors: CSIRO, AAD
 
 Data:
 RA - east/west coordinates (0 - 24 hrs, roughly equates to longitude)
