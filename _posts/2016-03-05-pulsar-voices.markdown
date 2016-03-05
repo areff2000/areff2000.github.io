@@ -14,6 +14,7 @@ Pulsar data is available from <a href="http://www.atnf.csiro.au/outreach/educati
 * Gary - python tech, visualising sound of a single pulsar
 * Chris - data manager, accessing CSIRO pulsar data and manipulating it to a useful format
 * Anderson - SQL
+* Michael - transforming pulsar coordinates, azimuthal
 * Richard - data analyst, datavis advisor, data management
 * AAD - R analysis of pulsar distance, frequency distribution
 * Advisors: CSIRO, AAD
