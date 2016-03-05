@@ -10,7 +10,7 @@ Pulsar data is available from <a href="http://www.atnf.csiro.au/outreach/educati
 ![](https://pbs.twimg.com/media/Cc0Dws-UYAA7Yz4.jpg)
 
 ### The Team:
-* Tony - webbed
+* Tony - web dev, php, JavaScript, SQL, phpmyadmin, CDs, html, visualising pulsar
 * Gary - python tech, visualising sound of a single pulsar
 * Chris - data manager, accessing CSIRO pulsar data and manipulating it to a useful format
 * Anderson - SQL
