@@ -25,6 +25,7 @@ Pulsar data is available from <a href="http://www.atnf.csiro.au/outreach/educati
 * P0 - the time in seconds that a pulsar repeats its signal
 * f - 1/P0 which ranges from 700 cycles per sec, to some which pulses which occur every few seconds
 * kps - distance from Earth in kilo-parsecs. 1 kps = 3,000 light years. The furthest data is 30 kps. The galactic centre is about 25,000 light years away i.e. about 8kps.
+* See description at: <a href="https://figshare.com/s/540578d3cefdd6529ea6">figshare</a>
 
 ### Method
 We plotted RA, Dec on a rectangular screen roughly to see pulsar location.
