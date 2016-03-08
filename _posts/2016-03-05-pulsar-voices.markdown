@@ -32,9 +32,31 @@ We plotted RA, Dec on a rectangular screen roughly to see pulsar location.
 One of us, Gary, worked on one pulsar data, turning the frequency into sound. A graph shows the variation in pulse between pulses. Another of the team, piotted a histogram of the range of pulsar frequencies, which shows a nice bi-modal distribution. Why is it bi-modal, we will have to ask a pulsar scientist.
 
 ### What next, still to do
-* load data, description, images hamlet to figshare :: DOI 
+* load data, description, images fileset to figshare :: DOI ; DONE except DOI
 * add overview images as option eg frequency bi-modal histogram
-* colour code pulsars by distance
-* add pulsar detail sound to Top three Observants
-* add tones to pulsars to indicate f
-* add title and description
+* colour code pulsars by distance; DONE
+* add pulsar detail sound to Top three Observants; 16 pulsars processed but not loaded
+* add tones to pulsars to indicate f; DONE
+* add tooltips to show location, distance, frequency, name; DONE
+* add title and description; DONE
+* project data onto a planetarium dome with interaction to play pulsar frequencies; DONE kind of, see below 
+* zoom into parts of sky to get separation between close data points; DONE kind of, see below.
+* set upper and lower tone boundaries, so tones aren't annoying
+* colour code pulsars by frequency bins e.g. >100 Hz, 10 - 100, 1 - 10, <1 Hz
+
+
+### Projected Pulsar location to Google Maps / Google Earth
+How to turn Pulsar data into Google map/Google Earth;
+
+Google Drive -> Add new Google Map -> Import -> psrcatSparse.csv -> Add Title, description
+
+Google Maps; maps.google.com -> Login -> Menu -> My Maps -> Select Pulsar Map -> See Map -> Click Earth (bottom left corner). Data projected onto Google Earth. -> Collapse Side Panel
+
+Can rotate, zoom in/out. To see data on map marker; view -> expand side panel.
+Doesn't seem any way to share Google Earth view, but can share Map view.
+
+<a href="https://www.google.com/maps/d/edit?mid=z4ltNGIQ4Lp4.kXadYfc58UmE&usp=sharing">See Google Map</a>
+Status of map: Public on the web - Anyone on the Internet can find and view
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/F119gqOKJ1U" frameborder="0" allowfullscreen></iframe>
+Pulsars projected onto Google Earth.
