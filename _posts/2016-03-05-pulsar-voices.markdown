@@ -19,7 +19,7 @@ Source data: <a href="http://www.atnf.csiro.au/research/pulsar/psrcat/">http://w
 * Michael - transforming pulsar coordinates, azimuthal to cartesian
 * Richard - data analyst, datavis advisor, data management
 * AAD - R analysis of pulsar distance, frequency distribution
-* Advisors: CSIRO Jess Robertson (focus on simple, doable outcome), AAD
+* Advisors: CSIRO Jess Robertson (focus on simple, doable outcome), AAD Dr Ben Raymond
 
 
 
