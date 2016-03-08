@@ -5,7 +5,9 @@ layout: post
 tags: [pulsar, CSIRO, ATNF, data, datavis]
 ---
 ### Background / Goal
-Pulsar data is available from <a href="http://www.atnf.csiro.au/outreach/education/everyone/pulsars/index.html">ATNF at CSIRO.au</a>. Our team at <a href="http://sciencehackau.github.io/melbourne/">#SciHackMelb</a> has been working on a #datavis to give researchers and others a novel way to explore the Pulsar corpus, especially through the sound of the frequencies at which the Pulsars emit pulses.
+<a href="http://www.atnf.csiro.au/research/pulsar/psrcat/">Pulsar data</a> is available from <a href="http://www.atnf.csiro.au/outreach/education/everyone/pulsars/index.html">ATNF at CSIRO.au</a>. Our team at <a href="http://sciencehackau.github.io/melbourne/">#SciHackMelb</a> has been working on a #datavis to give researchers and others a novel way to explore the Pulsar corpus, especially through the sound of the frequencies at which the Pulsars emit pulses.
+
+Source data: <a href="http://www.atnf.csiro.au/research/pulsar/psrcat/">http://www.atnf.csiro.au/research/pulsar/psrcat/</a>
 
 ![](https://pbs.twimg.com/media/Cc0Dws-UYAA7Yz4.jpg)
 
