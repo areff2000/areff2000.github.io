@@ -63,4 +63,5 @@ Doesn't seem any way to share Google Earth view, but can share Map view.
 Status of map: Public on the web - Anyone on the Internet can find and view
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/F119gqOKJ1U" frameborder="0" allowfullscreen></iframe>
-Pulsars projected onto Google Earth.
+Pulsars projected onto Google Earth. NB: now noted that Google capped data upload at 2,000 rows.
+Missing points over Atlantic are 296 missing data points. See Google Map link above for reworked data.
