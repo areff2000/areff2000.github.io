@@ -11,7 +11,7 @@ Source data: <a href="http://www.atnf.csiro.au/research/pulsar/psrcat/">http://w
 
 ![](https://pbs.twimg.com/media/Cc0Dws-UYAA7Yz4.jpg)
 
-### The Team:
+### <a href="http://www.the-hackfest.com/events/melbourne-science-hackfest/projects/pulsar-voices/">The Team</a>:
 * Tony - web dev, php, JavaScript, SQL, phpmyadmin, CDs, html, visualising pulsar
 * Gary - python tech, visualising sound of a single pulsar
 * Chris - data manager, accessing CSIRO pulsar data and manipulating it to a useful format
@@ -20,6 +20,8 @@ Source data: <a href="http://www.atnf.csiro.au/research/pulsar/psrcat/">http://w
 * Richard - data analyst, datavis advisor, data management
 * AAD - R analysis of pulsar distance, frequency distribution
 * Advisors: CSIRO Jess Robertson (focus on simple, doable outcome), AAD
+
+
 
 ### Data:
 * RA - east/west coordinates (0 - 24 hrs, roughly equates to longitude)
