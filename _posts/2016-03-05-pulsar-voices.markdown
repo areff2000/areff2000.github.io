@@ -36,7 +36,7 @@ We plotted RA, Dec on a rectangular screen roughly to see pulsar location.
 One of us, Gary, worked on one pulsar data, turning the frequency into sound. A graph shows the variation in pulse between pulses. Another of the team, piotted a histogram of the range of pulsar frequencies, which shows a nice bi-modal distribution. Why is it bi-modal, we will have to ask a pulsar scientist.
 
 ### What next, still to do
-* load data, description, images fileset to figshare :: DOI  ; DONE
+* load data, description, images fileset to figshare :: DOI 16.3.16 ; DONE
 * add overview images as option eg frequency bi-modal histogram
 * colour code pulsars by distance; DONE
 * add pulsar detail sound to Top three Observants; 16 pulsars processed but not loaded
