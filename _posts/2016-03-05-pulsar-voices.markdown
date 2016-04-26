@@ -29,14 +29,14 @@ Source data: <a href="http://www.atnf.csiro.au/research/pulsar/psrcat/">http://w
 * P0 - the time in seconds that a pulsar repeats its signal
 * f - 1/P0 which ranges from 700 cycles per sec, to some which pulses which occur every few seconds
 * kps - distance from Earth in kilo-parsecs. 1 kps = 3,000 light years. The furthest data is 30 kps. The galactic centre is about 25,000 light years away i.e. about 8kps.
-* See description at: <a href="https://figshare.com/s/540578d3cefdd6529ea6">figshare</a>
+* See description at: <a href="https://dx.doi.org/10.6084/m9.figshare.3084748.v1">figshare: DOI: 10.6084/m9.figshare.3084748.v1</a>
 
 ### Method
 We plotted RA, Dec on a rectangular screen roughly to see pulsar location.
 One of us, Gary, worked on one pulsar data, turning the frequency into sound. A graph shows the variation in pulse between pulses. Another of the team, piotted a histogram of the range of pulsar frequencies, which shows a nice bi-modal distribution. Why is it bi-modal, we will have to ask a pulsar scientist.
 
 ### What next, still to do
-* load data, description, images fileset to figshare :: DOI ; DONE except DOI
+* load data, description, images fileset to figshare :: DOI  ; DONE
 * add overview images as option eg frequency bi-modal histogram
 * colour code pulsars by distance; DONE
 * add pulsar detail sound to Top three Observants; 16 pulsars processed but not loaded
