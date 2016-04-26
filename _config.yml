@@ -1,5 +1,6 @@
 excerpt_separator: ""
-pygments: true
+highlighter: rouge
+// pygments: true
 markdown: kramdown
 url: http://areff2000.github.io
 title: Resbaz, SciHackMelb 2016; Plot.ly, D3, other datavis...
