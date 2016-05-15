@@ -16,4 +16,4 @@ v2: inc FTTN replacement CAPEX
 <iframe width="700" height="800" frameborder="0" scrolling="no" src="http://areff2000.github.io/d3-bubble-plot/fttn-fttp-heatmap/FTTNFTTPheatmapincFTTNreplace.html"></iframe>
 
 v1: Original
-<iframe width="700" height="800" frameborder="0" scrolling="no" src="http://areff2000.github.io/d3-bubble-plot/fttn-fttp-heatmap/FTTNFTTPheatmap.html"></iframe>
+<iframe width="1500" height="800" frameborder="0" scrolling="no" src="http://areff2000.github.io/d3-bubble-plot/fttn-fttp-heatmap/FTTNFTTPheatmap.html"></iframe>
