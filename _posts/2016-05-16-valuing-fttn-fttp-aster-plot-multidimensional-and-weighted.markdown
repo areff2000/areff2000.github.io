@@ -19,6 +19,11 @@ Content at:
 </li></ul>
 
 Discussed at: http://bit.ly/1RiaCpo
+Aster diagram; multidimensional, dimensions vary in weight; scores 0 (Max.) - 100 (Min.)
+<ul>
+<li>Closer to centre indicates more value.</li>
+<li>Lower score (in bullseye) indicates more value.</li>
+<ul>
 
 <table>
 <th>FTTP</th><th>FTTN</th>
@@ -43,6 +48,6 @@ Equity 			(10)<br>
 Simplicity 		(5)<br>
 Beauty 			(5)<br>
 Unknown Unknowns(25)[Blue]<br>
-</td><td>NB: closer to the bullseye is higher value<br>Data: weightings and ratings are author's assessment.</td></tr>
+</td><td>NB: closer to the bullseye is higher value<br>Data: weightings and ratings are author's assessment.<br> Bullseye rating is summary overall; the lower the better.</td></tr>
 </table>
 
