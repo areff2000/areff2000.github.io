@@ -18,7 +18,7 @@ Content at:
 <a href="http://areff2000.github.io/d3-bubble-plot/valueFlower/indexFTTN.html">http://areff2000.github.io/d3-bubble-plot/valueFlower/indexFTTN.html</a>
 </li></ul>
 
-Discussed at: http://bit.ly/1RiaCpo<br>
+Discussed at: <a href="http://bit.ly/1RiaCpo">http://bit.ly/1RiaCpo</a><br>
 Aster diagram; multidimensional, dimensions vary in weight; scores 0 (Max.) - 100 (Min.)
 <ul>
 <li>Closer to centre indicates more value.</li>
