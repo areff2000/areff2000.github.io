@@ -26,5 +26,20 @@ Discussed at: http://bit.ly/1RiaCpo
 <iframe width="600" height="600" frameborder="0" scrolling="no" src="http://areff2000.github.io/d3-bubble-plot/valueFlower/indexFTTN.html"></iframe>
 </td>
 </tr>
+<tr><td>
+Key: Dimensions (weight):<br><br>
+CAPEX 			(25)[Red]<br>
+Future CAPEX 	(10)<br>
+Time to rollout (25)<br>
+Life of Asset 	(25)<br>
+OPEX / Revenue 	(20) <br>
+Current need 	(10)<br>
+Future need 	(25)<br>
+Reliability 	(30)<br>
+Equity 			(10)<br>
+Simplicity 		(5)<br>
+Beauty 			(5)<br>
+Unknown Unknowns(25)[Blue]<br>
+</td><td>&nbsp;</td></tr>
 </table>
 
