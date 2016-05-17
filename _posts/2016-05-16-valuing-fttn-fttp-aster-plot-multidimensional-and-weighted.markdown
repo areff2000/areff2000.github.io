@@ -3,9 +3,12 @@ published: true
 title: Valuing FTTN FTTP - Aster plot - multidimensional and weighted
 layout: post
 ---
-Creating a visualisation of FTTN vs FTTP, using an Aster Plot.
-Strength: An Aster plot is multi-dimensional like a radar plot, but can assign a weighting to dimensions.
-Weakness: An Aster plot can only show one Value target at a time. Perhaps I can overlay with photoshop...
+Creating a visualisation of FTTN vs FTTP, using an Aster Plot.<br>
+Strength: An Aster plot is multi-dimensional like a radar plot, but can assign a weighting to dimensions.<br>
+Weakness: An Aster plot can only show one Value target at a time. Perhaps I can overlay with photoshop...<br>
+
+Data:  <a href="http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTN.csv">http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTN.csv</a>
+<a href="http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTN.csv">http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTP.csv</a>
 
 Content at: 
 <ul>
@@ -40,6 +43,6 @@ Equity 			(10)<br>
 Simplicity 		(5)<br>
 Beauty 			(5)<br>
 Unknown Unknowns(25)[Blue]<br>
-</td><td>&nbsp;</td></tr>
+</td><td>NB: closer to the bullseye is higher value<br>Data: weightings and ratings are author's assessment.</td></tr>
 </table>
 
