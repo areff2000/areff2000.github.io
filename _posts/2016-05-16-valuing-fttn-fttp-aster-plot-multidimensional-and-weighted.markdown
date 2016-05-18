@@ -7,7 +7,7 @@ Creating a visualisation of FTTN vs FTTP, using an Aster Plot.<br>
 Strength: An Aster plot is multi-dimensional like a radar plot, but can assign a weighting to dimensions.<br>
 Weakness: An Aster plot can only show one Value target at a time. Perhaps I can overlay with photoshop...<br>
 
-Data:  <br><a href="http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTN.csv">http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTN.csv</a><br>
+Data:  (Author's rating of FTTN FTTP value dimensions)<br><a href="http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTN.csv">http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTN.csv</a><br>
 <a href="http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTN.csv">http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTP.csv</a>
 
 Content at: 
@@ -18,7 +18,7 @@ Content at:
 <a href="http://areff2000.github.io/d3-bubble-plot/valueFlower/indexFTTN.html">http://areff2000.github.io/d3-bubble-plot/valueFlower/indexFTTN.html</a>
 </li></ul>
 
-Discussed at: <a href="http://bit.ly/1RiaCpo">http://bit.ly/1RiaCpo</a><br>
+Discussed at: <a href="http://bit.ly/1RiaCpo">http://bit.ly/1RiaCpo</a>; Rating of value dimensions in Table 1.<br>
 Aster diagram; multidimensional, dimensions vary in weight; scores 0 (Max.) - 100 (Min.)
 <ul>
 <li>Closer to centre indicates more value.</li>
