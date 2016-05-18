@@ -14,7 +14,7 @@ Discussed at: <a href="https://t.co/Kzyaujbl3F">https://t.co/Kzyaujbl3F</a> (p.2
 NB: Orange - FTTP > FTTN;  
 NB: Blue - FTTN > FTTP; 
 
-v2: inc FTTN replacement CAPEX; discussed at Appendix 6
+v2: inc FTTN replacement CAPEX; data/discussed at Appendix 6
 <iframe width="1500" height="800" frameborder="0" scrolling="no" src="http://areff2000.github.io/d3-bubble-plot/fttn-fttp-heatmap/FTTNFTTPheatmapincFTTNreplace.html"></iframe>
 
 v1: Original
