@@ -11,5 +11,6 @@ My first plot.ly interactive plot.......... <a href="https://github.com/areff200
 <iframe width="700" height="400" frameborder="0" scrolling="no" src="https://plot.ly/~areff20000/1.embed"></iframe>
 
 2 . Hans Rosling Data; D3 example
-from <a href="http://isakiko.github.io/D3-visualising-data/">http://isakiko.github.io/D3-visualising-data/</a>
+from <a href="http://isakiko.github.io/D3-visualising-data/">http://isakiko.github.io/D3-visualising-data/</a><br>
+View source at: <a href="http://areff2000.github.io/d3-bubble-plot/d3-plot/">http://areff2000.github.io/d3-bubble-plot/d3-plot/</a>
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="http://areff2000.github.io/d3-bubble-plot/d3-plot/"></iframe>
