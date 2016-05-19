@@ -6,7 +6,7 @@ layout: post
 Creating a visualisation of FTTN vs FTTP, using an Aster Plot.<br>
 <b>Strengths</b>: An Aster plot is multi-dimensional like a radar plot, but can assign a weighting to dimensions.<br>
 <b>Weakness</b>: An Aster plot can only show one Value target at a time. Perhaps I can overlay with photoshop...<br>
-<b>Update</b>: below I placed them side by side, using iframes inside an html table...<br>
+<b>Update</b>: below I placed two Aster plots side by side, using iframes inside an html table...<br>
 
 Data:  (Author's rating of FTTN FTTP value dimensions)<br><a href="http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTN.csv">http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTN.csv</a><br>
 <a href="http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTN.csv">http://areff2000.github.io/d3-bubble-plot/valueFlower/aster_dataFTTP.csv</a>
