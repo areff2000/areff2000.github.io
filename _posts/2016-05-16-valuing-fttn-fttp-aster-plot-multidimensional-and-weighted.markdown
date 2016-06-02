@@ -24,7 +24,7 @@ style.css | <br>
 Data: aster_dataFTTN.csv | aster_dataFTTP.csv<br>
 Javascript: drawFTTN.js | drawFTTP.js<br>
 Html: indexFTTN.html | indexFTTP.html<br>
-Table to draw together two html files into a table with iframe: valueFlower.html (html in this page; View Source)</p>
+Table to draw together two html files into a table with iframe: <a href="http://areff2000.github.io/d3-bubble-plot/valueFlower/valueFlower.html">valueFlower.html</a> (html in this page; View Source)</p>
 
 Discussed at: <a href="http://bit.ly/1RiaCpo">http://bit.ly/1RiaCpo</a>; Rating of value dimensions in Table 1.<br>
 Aster diagram; multidimensional, dimensions vary in weight; scores 0 (Max.) - 100 (Min.)
