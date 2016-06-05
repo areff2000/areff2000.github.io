@@ -20,6 +20,7 @@ Content at:
 </li></ul>
 
 <p>To amend the data, and play with the Aster Chart, you need the following files:<br>
+Download the files at: https://github.com/areff2000/d3-bubble-plot/tree/gh-pages/valueFlower<br>
 style.css | <br>
 Data: aster_dataFTTN.csv | aster_dataFTTP.csv<br>
 Javascript: drawFTTN.js | drawFTTP.js<br>
