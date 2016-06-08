@@ -28,10 +28,11 @@ Html: indexFTTN.html | indexFTTP.html<br>
 Table to draw together two html files into a table with iframe: <a href="http://areff2000.github.io/d3-bubble-plot/valueFlower/valueFlower.html">valueFlower.html</a> (html in this page; View Source)</p>
 
 Discussed at: <a href="http://bit.ly/1RiaCpo">http://bit.ly/1RiaCpo</a>; Rating of value dimensions in Table 1.<br>
-Aster diagram; multidimensional, dimensions vary in weight; scores 0 (Max.) - 100 (Min.)
+Aster diagram; multidimensional, dimensions vary in weight; scores 0 (Max.) - 100 (Min.)<br>
+Following a reviewer's comment**, the scale is now revised to: scores 0 (Min) - 100 (Max). Items starred below now reversed.<br>
 <ul>
-<li>Closer to centre indicates more value.</li>
-<li>Lower score (in bullseye) indicates more value.</li>
+<li>Closer to centre indicates less** value.</li>
+<li>Higher** score (in bullseye) indicates more value.</li>
 <ul>
 
 <table>
