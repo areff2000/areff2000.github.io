@@ -11,6 +11,9 @@ Discussed at: <a href="http://bit.ly/1RiaCpo">http://bit.ly/1RiaCpo</a>
 
 NB: Yellow - FTTN on a number of dimensions;  
 NB: Red - FTTP on a number of dimensions; 
+Now with a reversed scale, per reviewer. 
+Original: greater value closer to centre.
+Amended: greater value closer to edge, greater area.
 
 Future: update to graph showing weightings on significance of each dimension. See for instance Aster Plot <a href="http://bl.ocks.org/bbest/2de0e25d4840c68f2db1">here</a>.
 <iframe width="800" height="800" frameborder="0" scrolling="no" src="http://areff2000.github.io/d3-bubble-plot/radarPlot/"></iframe>
