@@ -58,6 +58,6 @@ Equity 			(10)<br>
 Simplicity 		(5)<br>
 Beauty 			(5)<br>
 Unknown Unknowns(25)[Blue]<br>
-</td><td>NB: closer to the bullseye is higher value<br>Data: weightings and ratings are author's assessment.<br> Bullseye rating is summary overall; the lower the better.</td></tr>
+</td><td>NB: closer to the bullseye is lower^^ value<br>Data: weightings and ratings are author's assessment.<br> Bullseye rating is summary overall; the higher^^ the better.</td></tr>
 </table>
 
