@@ -1,6 +1,6 @@
 ---
 published: true
-title: Climate change: Melbourne: is it real?
+title: Climate change - Melbourne - is it real?
 layout: post
 ---
 ###My first plot.ly interactive plot....
