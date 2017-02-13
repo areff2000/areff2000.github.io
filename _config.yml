@@ -3,7 +3,7 @@ highlighter: rouge
 // pygments: true
 markdown: kramdown
 url: http://areff2000.github.io
-title: Resbaz, SciHackM 2016; Plot.ly, D3, other datavis...
+title: Resbaz 2016; Plot.ly, D3, other datavis...
 tagline: Interactive Visualisation 
 description: My exploring datavis | <a href="https://figshare.com/authors/Richard_Ferrers/401493">My data</a>
 paginate: 5
