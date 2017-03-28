@@ -4,7 +4,7 @@ title: Visualising with Plotly - Where are Australian jobs growing?
 layout: post
 ---
 <p>
-A University of Melbourne training on Plotly.js was held on 22-23 March, 2017.
+A University of Melbourne training on Plotly.js was held on 22-23 March, 2017. See summary notes <a href="https://maegul.github.io/DataViz_web_plotly_cheat_sheet/">here - https://maegul.github.io/DataViz_web_plotly_cheat_sheet/</a>.
 The focus was on using the Plotly javascript library to enhance research output.
 Focus on interactivity, through buttons, rollovers were useful.
 Loading csv files were especially important for me. I loaded one of my datasets below.</p>
