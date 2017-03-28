@@ -1,6 +1,6 @@
 ---
 published: true
-title: Visualising with Plotly: Where are Australian jobs growing?
+title: Visualising with Plotly - Where are Australian jobs growing?
 layout: post
 ---
 <p>
@@ -9,14 +9,14 @@ The focus was on using the Plotly javascript library to enhance research output.
 Focus on interactivity, through buttons, rollovers were useful.
 Loading csv files were especially important for me. I loaded one of my datasets below.</p>
 
-<p>See DataVis at: https://areff2000.github.io/plotly_training_Mar2017/plotly_csv.html.
+<p>See DataVis at: <a href="https://areff2000.github.io/plotly_training_Mar2017/plotly_csv.html">https://areff2000.github.io/plotly_training_Mar2017/plotly_csv.html</a>.
 </p>
 
 <p>This dataset looks at regional growth of employees, from 2002 to 2014.
 Regional growth is shown as a % change over four years.</p>
 
 See a major output below.<br>
-Data comes from: Figshare: see https://doi.org/10.6084/m9.figshare.4056282.v6 
+Data comes from: Figshare: see <a href="https://doi.org/10.6084/m9.figshare.4056282.v6">https://doi.org/10.6084/m9.figshare.4056282.v6</a> 
 
 <iframe width="100%" height="600" frameborder="0" scrolling="no" src="https://areff2000.github.io/plotly_training_Mar2017/plotly_csv.html
 "></iframe>
