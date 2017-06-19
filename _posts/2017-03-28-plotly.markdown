@@ -9,10 +9,17 @@ The focus was on using the Plotly javascript library to enhance research output.
 Focus on interactivity, through buttons, rollovers were useful.
 Loading csv files were especially important for me. I loaded one of my datasets below.</p>
 
-<p>See DataVis at: <a href="https://areff2000.github.io/plotly_training_Mar2017/plotly_csv.html">https://areff2000.github.io/plotly_training_Mar2017/plotly_csv.html</a>.
+<p>See DataVis at: 
+<ul><li>
+<a href="https://areff2000.github.io/plotly_training_Mar2017/ULEDGraph.html">https://areff2000.github.io/plotly_training_Mar2017/ULEDGraph.html</a>.</li>
+<li>
+<a href="https://areff2000.github.io/plotly_training_Mar2017/plotly_csv.html">https://areff2000.github.io/plotly_training_Mar2017/plotly_csv.html</a>.
+</li>
+</ul>
 </p>
 
-<p>This dataset looks at regional growth of employees, from 2002 to 2014.
+<p>The 1st dataset compares 4K Hisense TV prices, by size, by retail vs RRP, by model. Data is in Source.</p>
+<p>This 2nd dataset looks at regional growth of employees, from 2002 to 2014.
 Regional growth is shown as a % change over four years.</p>
 
 See a major output below.<br>
