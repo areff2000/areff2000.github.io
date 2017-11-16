@@ -11,7 +11,7 @@ Loading csv files were especially important for me. I loaded two of my datasets 
 
 <p>See DataVis at: 
 <ul><li>
-<a href="https://areff2000.github.io/plotly_training_Mar2017/ULEDGraph.html">https://areff2000.github.io/plotly_training_Mar2017/ULEDGraph.html</a>.</li>
+<a href="https://areff2000.github.io/plotly_training_Mar2017/ULEDGraph.html">https://areff2000.github.io/plotly_training_Mar2017/ULEDGraph.html</a> - simple. (Update: <a href="https://areff2000.github.io/plotly_training_Mar2017/ULEDGraphNov17.html">Nov '17</a> - complex)</li>
 <li>
 <a href="https://areff2000.github.io/plotly_training_Mar2017/testBubble.html">https://areff2000.github.io/plotly_training_Mar2017/testBubble.html</a>.
 </li>
