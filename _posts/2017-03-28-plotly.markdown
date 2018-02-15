@@ -32,7 +32,7 @@ Data comes from: Figshare: see <a href="https://doi.org/10.6084/m9.figshare.4056
 
 <iframe width="100%" height="700" frameborder="0" scrolling="no" src="https://areff2000.github.io/plotly_training_Mar2017/plotly_csv.html
 "></iframe>
-
+<a href="https://areff2000.github.io/plotly_training_Mar2017/plotly_csv.html">Full Screen</a>
 <hr>
 <h3>Making a shareable timeline</h3>
 <p>New #datavis at: <a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=14K_jLgG2mF4HeNMN4SQdTz-ROx4hA3I2Pd4BD954iQs&font=Default&lang=en&initial_zoom=0&height=650">My NBN Timeline: Feb-July 2017</a>.</p>
