@@ -5,7 +5,7 @@ layout: post
 ---
 <p>A University of Melbourne training on Interactive Data Visualisation was held on 17,19 April, 2018.
 <br><br>
-Observable is a remarkable tool that combines, html control elements, plot.ly data visualisation and javascript calculations to 
+<a href="https://beta.observablehq.com">Observable</a> is a remarkable tool that combines, html control elements, plot.ly data visualisation and javascript calculations to 
 produce interactive, attractive and reactive calculations and visualisations.</p>
 
 ### Documenting the Observable Model
@@ -23,5 +23,6 @@ See Observable and Plot.ly training material, from the Unimelb course, at:
 * <a href="https://beta.observablehq.com/@maegul/pt-iv-dataviz">Part 4 - Data visualisation</a>
 
 ### See sample Heatmap from Observable output
+Link to full <a href="https://areff2000.github.io/plotly_training_Mar2017/NBNvaluationHeatmapV3.html">page</a>.
 
 <iframe width="900" height="800" frameborder="0" scrolling="yes" src="https://areff2000.github.io/plotly_training_Mar2017/NBNvaluationHeatmapV3.html"></iframe>
