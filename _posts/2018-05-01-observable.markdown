@@ -9,7 +9,7 @@ Observable is a remarkable tool that combines, html control elements, plot.ly da
 produce interactive, attractive and reactive calculations and visualisations.</p>
 
 ### Calculating the value of the NBN
-I used Observable to make a dynamic, interactive model to calculate the value of NBN.
+I used <a href="https://beta.observablehq.com/@mbostock/five-minute-introduction">Observable</a> to make a dynamic, interactive model to calculate the value of NBN.
 I used html sliders to control various assumptions, such as mobile vs fixed broadband use, % of gigabit users, % debt repaid per year.
 
 See training material, from the course, at: 
