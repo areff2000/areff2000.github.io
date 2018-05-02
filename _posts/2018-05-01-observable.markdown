@@ -14,13 +14,13 @@ A 5 page explanation of the model is available at Figshare: <a href="https://doi
 
 #### Sample screenshots
 
-![Model with sliders](https://areff2000.github.io/plotly_training_Mar2017/NBNFinancials201621.png)
+<a href="https://beta.observablehq.com/@areff2000/nbn-financials-from-2021-to-infinity-and-beyond">![Model with sliders](https://areff2000.github.io/plotly_training_Mar2017/NBNFinancials201621.png)</a>
 
-<br>Figure 1. Financial Graph from Model
+<br>Figure 1. Financial Graph from Model (v1)
 
-![Model with sliders](https://areff2000.github.io/plotly_training_Mar2017/ModelCashflowGraphand4sliders.png)
+<a href="https://beta.observablehq.com/@areff2000/nbn-financials-from-2021-on-v5a-verbose-off">![Model with sliders](https://areff2000.github.io/plotly_training_Mar2017/ModelCashflowGraphand4sliders.png =512*512)</a>
 
-<br>Figure 2. Cashflow Graph, Summary values and Model Sliders
+<br>Figure 2. Cashflow Graph, Summary values and Model Sliders (Final Model)
 
 ### Calculating the value of the NBN
 I used <a href="https://beta.observablehq.com/@mbostock/five-minute-introduction">Observable</a> to make a dynamic, interactive model to calculate the value of NBN.
