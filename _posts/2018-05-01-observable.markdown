@@ -12,6 +12,16 @@ produce interactive, attractive and reactive calculations and visualisations.</p
 
 A 5 page explanation of the model is available at Figshare: <a href="https://doi.org/10.6084/m9.figshare.6030926">https://doi.org/10.6084/m9.figshare.6030926</a>
 
+#### Sample screenshots
+
+![Model with sliders](https://areff2000.github.io/plotly_training_Mar2017/NBNFinancials201621.png)
+
+<br>Figure 1. Financial Graph from Model
+
+![Model with sliders](https://areff2000.github.io/plotly_training_Mar2017/ModelCashflowGraphand4sliders.png)
+
+<br>Figure 2. Cashflow Graph, Summary values and Model Sliders
+
 ### Calculating the value of the NBN
 I used <a href="https://beta.observablehq.com/@mbostock/five-minute-introduction">Observable</a> to make a dynamic, interactive model to calculate the value of NBN.
 I used html sliders to control various assumptions, such as mobile vs fixed broadband use, % of gigabit users, % debt repaid per year.
