@@ -6,7 +6,7 @@ layout: post
 <p>A University of Melbourne training on Interactive Data Visualisation was held on 17,19 April, 2018.
 <br><br>
 <a href="https://beta.observablehq.com">Observable</a> is a remarkable tool that combines, html control elements, plot.ly data visualisation and javascript calculations to 
-produce interactive, attractive and reactive calculations and visualisations.</p>
+produce interactive, attractive and reactive calculations and visualisations. See my Observable NBN model <a href="https://beta.observablehq.com/@areff2000/nbn-financials-from-2021-on-v5a-verbose-off">here</a>.</p>
 
 ### Documenting the Observable Model
 
@@ -18,7 +18,7 @@ A 5 page explanation of the model is available at Figshare: <a href="https://doi
 
 <br>Figure 1. Financial Graph from Model (v1)
 
-<a href="https://beta.observablehq.com/@areff2000/nbn-financials-from-2021-on-v5a-verbose-off">![Model with sliders](https://areff2000.github.io/plotly_training_Mar2017/ModelCashflowGraphand4sliders.png =512*512)</a>
+<a href="https://beta.observablehq.com/@areff2000/nbn-financials-from-2021-on-v5a-verbose-off">![Model with sliders](https://areff2000.github.io/plotly_training_Mar2017/ModelCashflowGraphand4sliders.png)</a>
 
 <br>Figure 2. Cashflow Graph, Summary values and Model Sliders (Final Model)
 
