@@ -9,7 +9,7 @@ layout: post
 produce interactive, attractive and reactive calculations and visualisations. See my Observable NBN model <a href="https://beta.observablehq.com/@areff2000/nbn-financials-from-2021-on-v5a-verbose-off">here</a>.</p>
 
 <p>See an interesting Observable model of a <a href="https://beta.observablehq.com/@fil/translucent-earth">spinning globe</a> and <a href="https://beta.observablehq.com/@martgnz/spinnable-planets">another</a>(using D3).
-<br>See my simpler version <a href="">here</a>:
+<br>See my simpler version <a href="https://areff2000.github.io/plotly_training_Mar2017/d3Geo.html">here</a>:
 
 <iframe width="500" height="500" frameborder="0" scrolling="no" src="https://areff2000.github.io/plotly_training_Mar2017/d3Geo.html"></iframe>
 </p>
