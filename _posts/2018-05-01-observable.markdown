@@ -8,6 +8,10 @@ layout: post
 <a href="https://beta.observablehq.com">Observable</a> is a remarkable tool that combines, html control elements, plot.ly data visualisation and javascript calculations to 
 produce interactive, attractive and reactive calculations and visualisations. See my Observable NBN model <a href="https://beta.observablehq.com/@areff2000/nbn-financials-from-2021-on-v5a-verbose-off">here</a>.</p>
 
+See an interesting Observable model of a <a href="https://beta.observablehq.com/@fil/translucent-earth">spinning globe</a> and <a href="https://beta.observablehq.com/@martgnz/spinnable-planets">another</a>(using D3).
+See my simpler version <a href="">here</a>:
+
+<iframe width="800" height="800" frameborder="0" scrolling="no" src="https://areff2000.github.io/plotly_training_Mar2017/d3Geo.html"></iframe>
 ### Documenting the Observable Model
 
 A 5 page explanation of the model is available at Figshare: <a href="https://doi.org/10.6084/m9.figshare.6030926">https://doi.org/10.6084/m9.figshare.6030926</a>
