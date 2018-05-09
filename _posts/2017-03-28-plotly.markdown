@@ -11,7 +11,7 @@ Loading csv files were especially important for me. I loaded two of my datasets 
 
 <p>See DataVis at: 
 <ul><li>
-<a href="https://areff2000.github.io/plotly_training_Mar2017/ULEDGraph.html">https://areff2000.github.io/plotly_training_Mar2017/ULEDGraph.html</a> - simple (Jun '17). (Update: <a href="https://areff2000.github.io/plotly_training_Mar2017/ULEDGraphNov17.html">Nov '17</a> - complex | <a href="https://areff2000.github.io/plotly_training_Mar2017/SonyLEDGraph18.html">Sony 2018</a> | <a href="https://areff2000.github.io/plotly_training_Mar2017/csViewer.html">Data 2018</a>)</li>
+<a href="https://areff2000.github.io/plotly_training_Mar2017/ULEDGraph.html">https://areff2000.github.io/plotly_training_Mar2017/ULEDGraph.html</a> - simple (Jun '17). (Update: <a href="https://areff2000.github.io/plotly_training_Mar2017/ULEDGraphNov17.html">Nov '17</a> - complex | <a href="https://areff2000.github.io/plotly_training_Mar2017/SonyLEDGraph18.html">Sony 2018</a> | <a href="https://areff2000.github.io/plotly_training_Mar2017/csViewer.html">Data 2018</a>)| <a href="https://areff2000.github.io/plotly_training_Mar2017/4KTVs_timeseries_priceHipster.png">PRICE hipster</a></li>
 <li>
 <a href="https://areff2000.github.io/plotly_training_Mar2017/testBubble.html">https://areff2000.github.io/plotly_training_Mar2017/testBubble.html</a>.
 </li>
@@ -22,7 +22,7 @@ Loading csv files were especially important for me. I loaded two of my datasets 
 </ul>
 </p>
 
-<p>The 1st dataset compares 4K Hisense TV prices, by size, by retail vs RRP, by model. Data is in Source.</p>
+<p>The 1st dataset compares 4K Hisense TV prices, by size, by retail vs RRP, by model. Data …is in Source.</p>
 <p>The 2nd dataset looks at World GDP over 2,000 years as a bubble chart
 <p>This 3rd dataset looks at regional growth of employees, from 2002 to 2014.
 Regional growth is shown as a % change over four years.</p>
