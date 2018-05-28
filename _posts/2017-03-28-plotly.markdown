@@ -41,7 +41,8 @@ Data comes from: Figshare: see <a href="https://doi.org/10.6084/m9.figshare.4056
 <hr>
 <h3>NBN Speedtest - 4-8 Aug 2017</h3>
 <p>My new NBN link: Telecube HFC 50/20 - tested 8.00pm Fri to 8.00am Mon<br>
-New #datavis at: <a href="https://plot.ly/~areff20000/46/">https://plot.ly/~areff20000/46/</a> (including data).</p>
+New #datavis at: <a href="https://plot.ly/~areff20000/46/">https://plot.ly/~areff20000/46/</a> (including data).<br>
+Update: New data - Telecube HFC 100/40 - tested May '18 at: <a href="https://plot.ly/~areff20000/50/">https://plot.ly/~areff20000/50/</a></p>
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~areff20000/46.embed"></iframe>
 
